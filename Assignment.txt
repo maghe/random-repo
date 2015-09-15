@@ -1,0 +1,15 @@
+Assignment
+
+• Fork the repo https://github.com/vijaykiran/random-repo - there are 3 CSV files in the repository.
+• Write a program in Java that will ask the user for a country code, and lists the airports and
+runways in that country. If the code is not found, the program will error out.
+• The file also contains country names, so the user can enter country name as well (case-insensitive)
+• Feel free to use any library/framework as necessary.
+
+Question:
+
+• Do you want a Swing GUI?
+    - Not needed, but if you think it is easier for you and you have enough time, feel free to do it.
+
+• The CSV files contains a lot of information. Do I store all the data or only the mandatory information?
+    Just the information you need to output, so you can strip out the columns you don't need.
